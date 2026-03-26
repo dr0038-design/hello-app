@@ -1,19 +1,18 @@
-public class HelloApp
-{
-        public static void main(String[] args)
-        {
-                // no arguments
-                if (args.length == 0)
-                {
+public class HelloApp {
+
+        public static void main(String[] args) {
+
+                // check if no arguments
+                if (args.length == 0) {
                         System.out.println("Hello, World!");
                 }
-                else
-                {
+                else {
+
                         // enhanced for loop
-                        for (String name : args)
-                        {
+                        for (String name : args) {
                                 System.out.println("Hello " + name);
                         }
+
                 }
         }
 }
