@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>hello-app</artifactId>
+=======
+    <artifactId>hello-app1</artifactId>
+>>>>>>> 9d2749a (Coded UC2: Display Hello with Command-Line Argument)
     <version>1.0-SNAPSHOT</version>
 
     <properties>
